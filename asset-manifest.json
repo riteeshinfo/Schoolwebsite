@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Schoolwebsite/static/css/main.db62923b.css",
+    "main.js": "/Schoolwebsite/static/js/main.8538f1c8.js",
+    "index.html": "/Schoolwebsite/index.html",
+    "main.db62923b.css.map": "/Schoolwebsite/static/css/main.db62923b.css.map",
+    "main.8538f1c8.js.map": "/Schoolwebsite/static/js/main.8538f1c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db62923b.css",
+    "static/js/main.8538f1c8.js"
+  ]
+}
